@@ -2,13 +2,16 @@
 
 Card Stitcher is a Windows desktop app for turning card scans into side-by-side front/back images and numbered grids.
 
-## Download version 4.0
+## Download version 4.0.2
 
-[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/latest/download/CardStitcher-4.0.0-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
+[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/latest/download/CardStitcher-4.0.2-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
 
 Version 4.0 requires no purchase or license key.
 
 ## What's new
+
+- 4.0.2 improves large-folder thumbnails, cancels outdated previews, adds full/last-name naming, handles naming edge cases, and improves small-window scrolling.
+- Project/preferences backups, recovery of damaged saved files, and help locating moved originals.
 
 - Redesigned light/dark workspace with sidebar navigation and Fronts/Backs image tabs.
 - Filename suffixes and naming by card name, number, or both.
