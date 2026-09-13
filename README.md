@@ -1,28 +1,29 @@
 # Card Stitcher
 
-A Windows desktop app for combining card scans into side-by-side pairs and numbered grids. Images stay on your computer.
+Card Stitcher is a Windows desktop app for turning card scans into side-by-side front/back images and numbered grids.
 
-[Download the latest installer or portable app](https://github.com/drow903/card-stitcher/releases/latest)
+## Download version 4.0
 
-## Getting started
-1. Choose your source image folder.
-2. Select pairs or a numbered grid.
-3. Review the preview, image order and front/back assignments.
-4. Review and export. Each run gets a separate batch folder; existing images are never overwritten.
+[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/latest/download/CardStitcher-4.0.0-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
 
-## Updates
-Card Stitcher (formerly Card Studio) 3.2 and later check quietly at startup. In 3.3, Settings lets you turn automatic checks off. You always choose when to download and install. Version 3.1 users can click Check for updates. Older versions require a one-time manual installation.
+Version 4.0 requires no purchase or license key.
 
-Installed preferences migrate to Windows application data in version 3.3. Portable users should preserve CardStudio.settings.xml when replacing files.
+## What's new
 
-Windows 10/11 with .NET Framework 4.8 or later. The installer is unsigned.
+- Redesigned light/dark workspace with sidebar navigation and Fronts/Backs image tabs.
+- Filename suffixes and naming by card name, number, or both.
+- Same-Wi-Fi phone photo import with a temporary QR session and review before adding photos.
+- Illustrated offline guide, sample cards and first-run checklist.
+- Support / Feedback with email and Outlook options.
 
-[Support and issues](https://github.com/drow903/card-stitcher/issues). Help / About in the app includes instructions and a privacy-safe Copy diagnostics button.
+Previews, rotation, scaling, card lists, saved projects, recovery, undo/redo, remembered layouts and output-size controls are included. Your original scans stay unchanged.
 
-This public repository contains downloads and documentation only. App source code is private. Older releases remain available for recovery.
+## Install or update
 
-## Light and dark appearance
-Version 3.4 introduces Card Stitcher branding, a new icon, and Light/Dark appearance matching the supplied logos. Choose Appearance at the top of the app; the choice is saved automatically. Themes never recolor scans or exported images.
+Windows 10/11 with .NET Framework 4.8. Download and run the installer. The installer is unsigned, so Windows may show an unknown-publisher warning.
 
-Existing Card Studio users can update in place. The CardStudio installer download is an identical compatibility copy for older update clients. For a new install, choose CardStitcher-3.4.0-Setup.exe. Keep existing internal filenames/settings folders unchanged.
+Existing users can choose Check for updates in the app. Save your project before installing. Updates preserve existing settings. Portable users should retain CardStudio.settings.xml when replacing application files.
 
+The CardStudio-named installer is an identical compatibility copy for older update clients. Choose the CardStitcher-named installer for a new installation.
+
+This repository contains downloads and documentation only. No customer images or settings are included.
