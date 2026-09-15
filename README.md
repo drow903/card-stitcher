@@ -2,31 +2,27 @@
 
 Card Stitcher is a Windows desktop app for turning card scans into side-by-side front/back images and numbered grids.
 
-## Download version 4.0.2
+## Download version 5.0
 
-[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/latest/download/CardStitcher-4.0.2-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
+[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/download/v5.0.0/CardStitcher-5.0.0-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
 
-Version 4.0 requires no purchase or license key.
+**Version 5.0 requires a purchased license to export images and formatted card lists.** Loading, editing, previews and saving projects are available before activation. [Purchase Card Stitcher — $15 USD, one-time](https://rowdysportscards.lemonsqueezy.com/checkout/buy/ce687056-a2c0-4515-9a00-7ad45e2c9358) (applicable tax shown at checkout). Enter the receipt key under Activate / License. Initial activation requires internet; reconnect at least every 30 days for license validation.
 
-## What's new
+## Features
 
-- 4.0.2 improves large-folder thumbnails, cancels outdated previews, adds full/last-name naming, handles naming edge cases, and improves small-window scrolling.
-- Project/preferences backups, recovery of damaged saved files, and help locating moved originals.
-
-- Redesigned light/dark workspace with sidebar navigation and Fronts/Backs image tabs.
-- Filename suffixes and naming by card name, number, or both.
-- Same-Wi-Fi phone photo import with a temporary QR session and review before adding photos.
-- Illustrated offline guide, sample cards and first-run checklist.
+- Side-by-side fronts/backs and numbered grids, with rotation, scaling and output-size controls.
+- Same-Wi-Fi phone photo import through a temporary QR session, with review before adding photos.
+- Light/dark workspace, Fronts/Backs image tabs and remembered panel sizes.
+- Filename suffixes and naming by card name, number or both, with full-name/last-name options.
+- Formatted card lists, saved projects, recovery, undo/redo and an illustrated guide.
 - Support / Feedback with email and Outlook options.
 
-Previews, rotation, scaling, card lists, saved projects, recovery, undo/redo, remembered layouts and output-size controls are included. Your original scans stay unchanged.
+Your original scans stay unchanged. This regular release has no private-beta expiration date.
 
 ## Install or update
 
-Windows 10/11 with .NET Framework 4.8. Download and run the installer. The installer is unsigned, so Windows may show an unknown-publisher warning.
+Windows 10/11 with .NET Framework 4.8. The installer is unsigned, so Windows may show an unknown-publisher warning.
 
-Existing users can choose Check for updates in the app. Save your project before installing. Updates preserve existing settings. Portable users should retain CardStudio.settings.xml when replacing application files.
-
-The CardStudio-named installer is an identical compatibility copy for older update clients. Choose the CardStitcher-named installer for a new installation.
+Existing users: version 5 introduces paid activation for exports. Save your project before choosing Check for updates and installing. Updates preserve settings. Portable users should retain CardStudio.settings.xml when replacing application files. The CardStudio-named installer is an identical compatibility copy for older update clients.
 
 This repository contains downloads and documentation only. No customer images or settings are included.
