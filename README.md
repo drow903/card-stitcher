@@ -2,9 +2,9 @@
 
 Card Stitcher is a Windows desktop app for turning card scans into side-by-side front/back images and numbered grids.
 
-## Download version 5.3.0
+## Download version 5.4.0
 
-[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/download/v5.3.0/CardStitcher-5.3.0-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
+[Download the Windows installer](https://github.com/drow903/card-stitcher/releases/download/v5.4.0/CardStitcher-5.4.0-Setup.exe) or [view all release files](https://github.com/drow903/card-stitcher/releases/latest).
 
 **Version 5 requires a purchased license to export images, card sheets and formatted card lists.** Loading, editing, previews and saving projects are available before activation. [Purchase Card Stitcher — $15 USD, one-time](https://rowdysportscards.lemonsqueezy.com/checkout/buy/ce687056-a2c0-4515-9a00-7ad45e2c9358) (applicable tax shown at checkout). Enter the receipt key under Activate / License. Initial activation requires internet; reconnect at least every 30 days for license validation.
 
@@ -17,6 +17,8 @@ Version 5.1.2 adds optional Claim Price labels at the top right of grid cells, d
 Version 5.2.0: Bug fixes.
 
 Version 5.3.0 streamlines card details, sales lists, export review, layout options, selected-card editing, presets and projects. The card table shows front/back thumbnails; default presets can be restored without removing custom presets. Empty screens provide clear import actions.
+
+Version 5.4.0 adds reversible cropping, fine straightening, stable front/back replacement slots, and selected-card/range exports with matching sales text. Original scans remain untouched.
 
 ## Features
 
